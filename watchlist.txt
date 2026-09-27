@@ -1,0 +1,13 @@
+# 自选币种，每行一个，页面上带 ★ 标记。# 后面是注释。
+# Binance 没有的会自动试 OKX，两边都没有的会在页面底部列出。
+BTC
+ETH
+SOL
+BNB
+NEAR
+ENA
+LDO
+TRB
+OKB
+GT
+BGB
